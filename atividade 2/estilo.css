@@ -1,0 +1,45 @@
+ /*imagem do cachorro*/
+ .imagem{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color: aqua;
+}
+
+.paragrafos{
+    text-align: center;
+}
+/*link nao visitado*/
+a:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+/*link visitado*/
+
+a:visited{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+/*link ativo*/
+
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/*link hover ele ficar vermelho ao passar o mouse*/
+
+
+
+
+
+
